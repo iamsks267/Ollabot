@@ -14,9 +14,6 @@ Python, Streamlit, Ollama3
 - **Scalable Architecture**: 🚀Designed to handle multiple queries simultaneously with high efficiency
 - **Extensible**: 🧩Easily integrate additional models or services as needed
 
-## 🔗Global Access Link ##
-Streamlit community Cloud: [Ollabot](https://ollabot.streamlit.app)
-
 
 ## 🛠️ Installation/Prerequisites ##
 
@@ -81,7 +78,7 @@ We welcome contributions to improve AutoInsightApp! To contribute:
 - Open a pull request describing your changes
 
 ## 🎯 Final Output: ##
-
+<img width="1419" alt="image" src="https://github.com/user-attachments/assets/887e42df-78e7-40a0-bb02-35d8e460a3b3">
 
 
 ## 📫 Connect with Me ##
